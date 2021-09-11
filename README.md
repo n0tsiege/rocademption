@@ -7,8 +7,6 @@
 
 ## **Features**
 
-[**EN**]
-
 	- Waiting/Queue list integrating a points system,
 	- The player with the most points enters as soon as a place is released on the server,
 	- Players gradually earn points as they wait on the queue list,
