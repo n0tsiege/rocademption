@@ -7,22 +7,22 @@
 
 ## **Features**
 
-	- Waiting/Queue list integrating a points system,
-	- The player with the most points enters as soon as a place is released on the server,
-	- Players gradually earn points as they wait on the queue list,
-	- Players gradually lose points as soon as they enter in the server,
-	- Privileged access with steamid (additional points) settable,
-	- Emoji system to allow visibility in case of client freeze,
-	- Lottery system with additional points if 3 identical emojis,
-	- Anti-spam system,
-	- Check if Steam is open.
+	- Waiting/Queue list integrating a points system
+	- The player with the most points enters as soon as a place is released on the server
+	- Players gradually earn points as they wait on the queue list
+	- Players gradually lose points as soon as they enter in the server
+	- Privileged access with steamid (additional points) settable
+	- Emoji system to allow visibility in case of client freeze
+	- Lottery system with additional points if 3 identical emojis
+	- Anti-spam system
+	- Check if Steam is open
 
 
 ## **Installation**
 
-- Drag'N Drop the **rocademption** folder in your FiveM's resources folder,
-- In your server.cfg: ```start rocademption```,
-- Desactivate the **hardcap** resource (already included in rocademption),
+- Drag'N Drop the **rocademption** folder in your server's resources folder,
+- In your server.cfg: ```ensure rocademption```,
+- Deactivate the **hardcap** resource (already included in rocademption),
 - Set the config.lua the way you want,
 - Enjoy ♥.
 
@@ -35,5 +35,5 @@
 
 - **SatansTool**
 - **Delduwaht**
-
-========================== REDEMPTION ==========================
+- **n0tsiege**
+- 
